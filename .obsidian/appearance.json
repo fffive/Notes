@@ -1,0 +1,9 @@
+{
+  "accentColor": "#d19c80",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "minimal-plus"
+  ]
+}

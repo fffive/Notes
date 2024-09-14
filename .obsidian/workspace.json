@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "2597661af278d628",
+    "type": "split",
+    "children": [
+      {
+        "id": "a31d4b7e337878f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c8d07b41d71ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Go_Package/Cobra.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d59fb397685f0547",
+    "type": "split",
+    "children": [
+      {
+        "id": "3893db755b95ff4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aea0921c9426b1fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "220e018e49fbf26c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tutorial",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b27f46c77028f6dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "043d57f515b0c3a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "56e4586baeaa3358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad5e319356e9695",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Go_Package/Cobra.md"
+              }
+            }
+          },
+          {
+            "id": "005af5d909e1e762",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18f23a779542b8fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/Go_Package/Cobra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "885995871c107245",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note/Go_Package/Cobra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7c8d07b41d71ce9",
+  "lastOpenFiles": [
+    "README.md",
+    "Note/Tools/grpc.md",
+    "Note/Go_Package/Cobra.md",
+    "Note/README.md",
+    "Note/Notes/README.md",
+    "Note/Notes",
+    "Notes/README.md",
+    "Notes",
+    "Note/Go_Package/Lipgloss.md",
+    "Note/Tools/protobuf.md",
+    "垃圾桶/Projects/Tasks/Tasks流程图.canvas",
+    "Note/Go_Package",
+    "Note/Android/Gradle/get-going-with-gradle-book.pdf",
+    "Note/Tools",
+    "Note/Android/基本布局.md",
+    "Note/Android/Gradle/get-going-with-gradle-book.pdf.crdownload",
+    "未命名.md",
+    "Note",
+    "数据容器.pdf",
+    "Interview/Redis.md",
+    "Interview/Go面向对象.md",
+    "Interview/GO包.md",
+    "Interview/Go 基础.md",
+    "Interview/Go 底层.md",
+    "Interview/计算机网络.md",
+    "Interview/操作系统.md",
+    "Interview/Mysql/Mysql.md",
+    "Books/计算机网络/运输层.md",
+    "Books/ElasticSearch实战/ElasticSearch介绍.md",
+    "Projects/Tasks/Lipgloss.md",
+    "Rust",
+    "Projects/Tasks/Cobra.md",
+    "Projects/Tasks/Tasks流程图.canvas",
+    "Books/分布式对象存储/第二章 解耦分布式对象存储.md",
+    "Books/分布式对象存储/第三章 元数据服务.md",
+    "Books/分布式对象存储/第一章 对象存储介绍.md",
+    "Books/分布式对象存储/优化代办.md",
+    "Projects/Tasks",
+    "Images/TCP报文段结构.png",
+    "Images/TCP传输过程.png",
+    "Images/布局复用举例.png",
+    "Images/布局案例结果.png",
+    "Images/websocket intro.png",
+    "Pasted image 20240907145833.png",
+    "Images/分布式数据存储基本架构.png",
+    "Pasted image 20240828102631.png",
+    "Pasted image 20240821084220.png",
+    "02323A5B.png",
+    "状态机复制.canvas",
+    "日志.canvas",
+    "gfs.canvas"
+  ]
+}

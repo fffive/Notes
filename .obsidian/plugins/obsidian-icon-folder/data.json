@@ -1,0 +1,105 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "💄",
+      "RaSnake",
+      "TiBrandGolang",
+      "TiTools",
+      "SiGradle"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Interview": "LiWorkflow",
+  "Projects": {
+    "iconName": "LiPresentation",
+    "iconColor": "#0853e7"
+  },
+  "Interview/Mysql": "LiDatabase",
+  "Interview/计算机网络.md": "LiNetwork",
+  "Books": {
+    "iconName": "LiBook",
+    "iconColor": "#ed0202"
+  },
+  "Books/ElasticSearch实战": {
+    "iconName": "SiElastic",
+    "iconColor": "#919343"
+  },
+  "Books/Go程序面试笔试宝典": {
+    "iconName": "FabGolang",
+    "iconColor": "#0576e1"
+  },
+  "Books/Redis实战": {
+    "iconName": "SiRedis",
+    "iconColor": "#df1616"
+  },
+  "Books/分布式对象存储": "LiDistributeSpaceVertical",
+  "Books/高性能MySQL": {
+    "iconName": "SiMysql",
+    "iconColor": "#d97373"
+  },
+  "Images": "LiImage",
+  "Books/计算机网络": "LiNetwork",
+  "Projects/Docker": {
+    "iconName": "SiDocker",
+    "iconColor": "#0c5fe4"
+  },
+  "Projects/Bluebell": "🫐",
+  "Projects/Tasks": {
+    "iconName": "BoBxTask",
+    "iconColor": "#c80909"
+  },
+  "Projects/Tasks/Tasks流程图.canvas": "SiWebdriverio",
+  "Rust": {
+    "iconName": "SiRust",
+    "iconColor": "#ec8209"
+  },
+  "Note/Android": {
+    "iconName": "FabAndroid",
+    "iconColor": "#04ec13"
+  },
+  "Note/Android/Gradle": {
+    "iconName": "SiGradle",
+    "iconColor": "#2848e6"
+  },
+  "Note/Android/Kotlin": {
+    "iconName": "SiKotlin",
+    "iconColor": "#ec09bb"
+  },
+  "Note/Tools": {
+    "iconName": "TiTools",
+    "iconColor": "#aca015"
+  },
+  "Note/Go_Package": {
+    "iconName": "TiBrandGolang",
+    "iconColor": "#00d0fa"
+  },
+  "Note/Go_Package/Cobra.md": {
+    "iconName": "RaSnake",
+    "iconColor": "#1cd94b"
+  },
+  "Note/Go_Package/Lipgloss.md": "💄"
+}
