@@ -129,8 +129,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "50a8ca437a31bee6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,9 +157,10 @@
   },
   "active": "e7c8d07b41d71ce9",
   "lastOpenFiles": [
+    "test.md",
+    "Note/Go_Package/Cobra.md",
     "README.md",
     "Note/Tools/grpc.md",
-    "Note/Go_Package/Cobra.md",
     "Note/README.md",
     "Note/Notes/README.md",
     "Note/Notes",
@@ -164,7 +174,6 @@
     "Note/Tools",
     "Note/Android/基本布局.md",
     "Note/Android/Gradle/get-going-with-gradle-book.pdf.crdownload",
-    "未命名.md",
     "Note",
     "数据容器.pdf",
     "Interview/Redis.md",
