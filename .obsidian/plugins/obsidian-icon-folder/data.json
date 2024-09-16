@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcArrowBoth24",
       "💄",
       "RaSnake",
       "TiBrandGolang",
-      "TiTools",
-      "SiGradle"
+      "TiTools"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -101,5 +101,9 @@
     "iconName": "RaSnake",
     "iconColor": "#1cd94b"
   },
-  "Note/Go_Package/Lipgloss.md": "💄"
+  "Note/Go_Package/Lipgloss.md": "💄",
+  "Note/Tools/grpc.md": {
+    "iconName": "OcArrowBoth24",
+    "iconColor": "#07c2c5"
+  }
 }

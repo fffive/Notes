@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Android/基本布局.md",
+                "file": "Note/Tools/grpc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Android/基本布局.md"
+                "file": "Note/Tools/grpc.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Android/基本布局.md",
+                "file": "Note/Tools/grpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Android/基本布局.md",
+                "file": "Note/Tools/grpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,12 +154,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aea0921c9426b1fc",
+  "active": "8ad5e319356e9695",
   "lastOpenFiles": [
-    "Note/Go_Package/Cobra.md",
-    "Note/Go_Package/Lipgloss.md",
+    "Note/Tools/images/grpcprocess.svg",
+    "Note/Tools/images/d6fc0d21b8c55f419cd50e62d44a2657.png",
     "Note/Tools/grpc.md",
     "Note/Tools/protobuf.md",
+    "Note/Tools/images",
+    "Note/Go_Package/Cobra.md",
+    "Note/Go_Package/Lipgloss.md",
+    "Note/Android/基本布局.md",
     "test.md",
     "README.md",
     "Note/README.md",
@@ -172,7 +175,6 @@
     "Note/Go_Package",
     "Note/Android/Gradle/get-going-with-gradle-book.pdf",
     "Note/Tools",
-    "Note/Android/基本布局.md",
     "Note/Android/Gradle/get-going-with-gradle-book.pdf.crdownload",
     "Note",
     "数据容器.pdf",
@@ -193,8 +195,6 @@
     "Books/分布式对象存储/第二章 解耦分布式对象存储.md",
     "Books/分布式对象存储/第三章 元数据服务.md",
     "Books/分布式对象存储/第一章 对象存储介绍.md",
-    "Books/分布式对象存储/优化代办.md",
-    "Projects/Tasks",
     "Images/TCP报文段结构.png",
     "Images/TCP传输过程.png",
     "Images/布局复用举例.png",
@@ -204,7 +204,6 @@
     "Images/分布式数据存储基本架构.png",
     "Pasted image 20240828102631.png",
     "Pasted image 20240821084220.png",
-    "02323A5B.png",
     "状态机复制.canvas",
     "日志.canvas",
     "gfs.canvas"

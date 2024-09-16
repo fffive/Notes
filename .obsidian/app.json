@@ -1,7 +1,8 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "./images",
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "useMarkdownLinks": true
 }
