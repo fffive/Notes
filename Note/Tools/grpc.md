@@ -57,3 +57,4 @@ message HelloReply {
 3. 客户端流式 RPC`rpc LotsOfGreetings(stream HelloRequest) returns (HelloResponse);`
 4. 双向流式 RPC `rpc BidiHello(stream HelloRequest) returns (stream HelloResponse);`
 
+### RPC 生命周期 #todo

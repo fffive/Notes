@@ -154,12 +154,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ad5e319356e9695",
+  "active": "e7c8d07b41d71ce9",
   "lastOpenFiles": [
+    "Note/Tools/protobuf.md",
+    "Note/Tools/grpc.md",
     "Note/Tools/images/grpcprocess.svg",
     "Note/Tools/images/d6fc0d21b8c55f419cd50e62d44a2657.png",
-    "Note/Tools/grpc.md",
-    "Note/Tools/protobuf.md",
     "Note/Tools/images",
     "Note/Go_Package/Cobra.md",
     "Note/Go_Package/Lipgloss.md",
@@ -203,7 +203,6 @@
     "Pasted image 20240907145833.png",
     "Images/分布式数据存储基本架构.png",
     "Pasted image 20240828102631.png",
-    "Pasted image 20240821084220.png",
     "状态机复制.canvas",
     "日志.canvas",
     "gfs.canvas"
