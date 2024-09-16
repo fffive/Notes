@@ -58,3 +58,5 @@ message HelloReply {
 4. 双向流式 RPC `rpc BidiHello(stream HelloRequest) returns (stream HelloResponse);`
 
 ### RPC 生命周期 #todo
+
+`protoc -I . hello.proto --go_out=. --go-grpc_out=.`
