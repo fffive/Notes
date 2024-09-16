@@ -50,3 +50,10 @@ message HelloReply {
 ### 服务定义
 
 与许多 RPC 系统一样，gRPC 基于定义服务的想法，指定可以远程调用的方法及其参数和返回类型。
+
+#### 四种服务方法
+1. 一元RPC `rpc SayHello(HelloRequest) returns (HelloResponse);`
+2. 服务器流式 RPC  `rpc LotsOfReplies(HelloRequest) returns (stream HelloResponse);`
+3. 客户端流式 RPC`rpc LotsOfGreetings(stream HelloRequest) returns (HelloResponse);`
+4. 双向流式 RPC `rpc BidiHello(stream HelloRequest) returns (stream HelloResponse);`
+
