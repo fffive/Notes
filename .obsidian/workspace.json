@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7c8d07b41d71ce9",
+  "active": "50a8ca437a31bee6",
   "lastOpenFiles": [
     "Note/Tools/protobuf.md",
     "Note/Tools/grpc.md",

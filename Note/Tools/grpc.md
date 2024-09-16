@@ -55,8 +55,62 @@ message HelloReply {
 1. 一元RPC `rpc SayHello(HelloRequest) returns (HelloResponse);`
 2. 服务器流式 RPC  `rpc LotsOfReplies(HelloRequest) returns (stream HelloResponse);`
 3. 客户端流式 RPC`rpc LotsOfGreetings(stream HelloRequest) returns (HelloResponse);`
-4. 双向流式 RPC `rpc BidiHello(stream HelloRequest) returns (stream HelloResponse);`
+4. 双向流式 RPC `rpc BidiHello(stream HelloRequest) returns (stream HelloResponse);
+==想要了解更多：== [点击这里](#案例)
 
 ### RPC 生命周期 #todo
 
-`protoc -I . hello.proto --go_out=. --go-grpc_out=.`
+
+## 案例
+
+### 实现流式RPC
+
+#### protoc 进行编码
+
+```proto title:stream.proto
+syntax = "proto3";
+package stream;
+option go_package = ".;proto";
+
+service Greeter {
+    rpc GetStream(StreamReqData) returns (stream StreamResData);
+    rpc PutStream(stream StreamReqData) returns (StreamResData);
+    rpc AllStream(stream StreamReqData) returns (stream StreamResData);
+}
+
+message StreamReqData {
+    string data = 1;
+}
+
+message StreamResData {
+    string data = 1;
+}
+```
+
+**执行命令**：`protoc -I . stream.proto --go_out=. --go-grpc_out=.`
+==了解命令：==  [grpc-goexample-cmd](https://grpc.io/docs/languages/go/quickstart/#regenerate-grpc-code)
+
+#### 服务端流
+
+```go title:server.go 
+type GreeterServer interface {
+	// 服务端流
+	GetStream(*StreamReqData, grpc.ServerStreamingServer[StreamResData]) error
+
+	// 客户端流
+	PutStream(grpc.ClientStreamingServer[StreamReqData, StreamResData]) error
+
+	// 双向流
+	AllStream(grpc.BidiStreamingServer[StreamReqData, StreamResData]) error
+}
+```
+
+#### 客户端流
+
+```go title:client.go
+type GreeterClient interface {
+	GetStream(ctx context.Context, in *StreamReqData, opts ...grpc.CallOption) (grpc.ServerStreamingClient[StreamResData], error)
+	PutStream(ctx context.Context, opts ...grpc.CallOption) (grpc.ClientStreamingClient[StreamReqData, StreamResData], error)
+	AllStream(ctx context.Context, opts ...grpc.CallOption) (grpc.BidiStreamingClient[StreamReqData, StreamResData], error)
+}
+```
