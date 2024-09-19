@@ -105,9 +105,5 @@
   "Note/Tools/grpc.md": {
     "iconName": "OcArrowBoth24",
     "iconColor": "#07c2c5"
-  },
-  "Note/Go_Package/unsafe.md": {
-    "iconName": "CoWarning",
-    "iconColor": "#e70d0d"
   }
 }
