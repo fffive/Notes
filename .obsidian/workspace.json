@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Tools/grpc.md"
+                "file": "Note/Go_Package/Gorm.md"
               }
             }
           },
@@ -107,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Tools/grpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Tools/grpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,10 +152,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7c8d07b41d71ce9",
+  "active": "aea0921c9426b1fc",
   "lastOpenFiles": [
-    "Note/Go_Package/unsafe.md",
     "Note/Tools/grpc.md",
+    "Note/Go_Package/Gorm.md",
+    "Note/Go_Package/未命名",
+    "Note/Go_Package/unsafe.md",
     "Note/Tools/protobuf.md",
     "Note/Tools/images/grpcprocess.svg",
     "Note/Tools/images/d6fc0d21b8c55f419cd50e62d44a2657.png",
@@ -190,12 +190,10 @@
     "Books/计算机网络/运输层.md",
     "Books/ElasticSearch实战/ElasticSearch介绍.md",
     "Projects/Tasks/Lipgloss.md",
-    "Rust",
     "Projects/Tasks/Cobra.md",
     "Projects/Tasks/Tasks流程图.canvas",
     "Books/分布式对象存储/第二章 解耦分布式对象存储.md",
     "Books/分布式对象存储/第三章 元数据服务.md",
-    "Books/分布式对象存储/第一章 对象存储介绍.md",
     "Images/TCP报文段结构.png",
     "Images/TCP传输过程.png",
     "Images/布局复用举例.png",
