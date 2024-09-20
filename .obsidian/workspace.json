@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Tools/grpc.md",
+                "file": "Note/Android/基本布局.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Go_Package/Gorm.md"
+                "file": "Note/Android/基本布局.md"
               }
             }
           },
@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Note/Android/基本布局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Note/Android/基本布局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,18 +154,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aea0921c9426b1fc",
+  "active": "e7c8d07b41d71ce9",
   "lastOpenFiles": [
+    "Note/Go_Package/Cobra.md",
+    "Note/Go_Package/Lipgloss.md",
     "Note/Tools/grpc.md",
+    "Note/Tools/protobuf.md",
+    "Note/Tools/images/grpcprocess.svg",
     "Note/Go_Package/Gorm.md",
     "Note/Go_Package/未命名",
     "Note/Go_Package/unsafe.md",
-    "Note/Tools/protobuf.md",
-    "Note/Tools/images/grpcprocess.svg",
     "Note/Tools/images/d6fc0d21b8c55f419cd50e62d44a2657.png",
     "Note/Tools/images",
-    "Note/Go_Package/Cobra.md",
-    "Note/Go_Package/Lipgloss.md",
     "Note/Android/基本布局.md",
     "test.md",
     "README.md",
@@ -193,7 +195,6 @@
     "Projects/Tasks/Cobra.md",
     "Projects/Tasks/Tasks流程图.canvas",
     "Books/分布式对象存储/第二章 解耦分布式对象存储.md",
-    "Books/分布式对象存储/第三章 元数据服务.md",
     "Images/TCP报文段结构.png",
     "Images/TCP传输过程.png",
     "Images/布局复用举例.png",
