@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGin",
       "RiDatabase2Fill",
       "CoWarning",
       "⚠",
-      "OcArrowBoth24",
-      "💄"
+      "OcArrowBoth24"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -105,5 +105,9 @@
   "Note/Tools/grpc.md": {
     "iconName": "OcArrowBoth24",
     "iconColor": "#07c2c5"
+  },
+  "Note/Go_Package/GIn": {
+    "iconName": "SiGin",
+    "iconColor": "#00d0fa"
   }
 }
