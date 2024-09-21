@@ -89,7 +89,7 @@ message StreamResData {
 
 **执行命令**：`protoc -I . stream.proto --go_out=. --go-grpc_out=.`
 ==了解命令：==  [grpc-goexample-cmd](https://grpc.io/docs/languages/go/quickstart/#regenerate-grpc-code)
-
+ 
 #### 服务端流
 
 ```go title:server.go 
