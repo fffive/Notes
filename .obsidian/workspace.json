@@ -11,12 +11,14 @@
             "id": "e7c8d07b41d71ce9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Note/Tools/grpc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Note/流程图/grpc.canvas",
+                "viewState": {
+                  "x": -188.96836165823058,
+                  "y": -723.6831912755517,
+                  "zoom": -1.2000000000000002
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/备忘录.md"
+                "file": "Note/流程图/grpc.canvas"
               }
             }
           },
@@ -107,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Note/流程图/grpc.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Note/流程图/grpc.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,11 +156,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aea0921c9426b1fc",
+  "active": "e7c8d07b41d71ce9",
   "lastOpenFiles": [
     "Note/Tools/grpc.md",
+    "Note/流程图/grpc.canvas",
+    "Note/流程图",
     "Note/备忘录.md",
-    "Note/未命名",
+    "Note/流程图",
     "Note/Go_Package/GIn/gin 中间件的实现原理.md",
     "Note/Android/基本布局.md",
     "Note/Go_Package/GIn",
@@ -180,7 +186,6 @@
     "Note/Android/Gradle/get-going-with-gradle-book.pdf",
     "Note/Tools",
     "Note/Android/Gradle/get-going-with-gradle-book.pdf.crdownload",
-    "Note",
     "Interview/Redis.md",
     "Interview/Go面向对象.md",
     "Interview/GO包.md",
@@ -192,7 +197,6 @@
     "Books/计算机网络/运输层.md",
     "Books/ElasticSearch实战/ElasticSearch介绍.md",
     "Projects/Tasks/Lipgloss.md",
-    "Projects/Tasks/Cobra.md",
     "Projects/Tasks/Tasks流程图.canvas",
     "Images/TCP报文段结构.png",
     "Images/TCP传输过程.png",

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"529a9f79ecbdbf12","x":-1020,"y":-1180,"width":1740,"height":640,"type":"group","label":"grpc"},
+		{"id":"73258ae53ddf91f1","x":-1000,"y":-800,"width":840,"height":240,"type":"group","label":"grpc-server"},
+		{"id":"e75dce352073e9a4","x":-1000,"y":-1160,"width":840,"height":200,"type":"group","label":"grpc-client"},
+		{"id":"dd7806d22983727f","x":-980,"y":-640,"width":250,"height":60,"type":"text","text":"api"},
+		{"id":"41c168f9135c9bfa","x":-450,"y":-1140,"width":250,"height":60,"type":"text","text":"客户端"},
+		{"id":"af38e7406daa0aa7","x":-980,"y":-1040,"width":250,"height":60,"type":"text","text":"ip端口"},
+		{"id":"9388ad0955508208","x":-800,"y":-1140,"width":250,"height":60,"type":"text","text":"grpc-client"},
+		{"id":"890e3dfda3a6ab0e","x":-770,"y":-780,"width":220,"height":60,"type":"text","text":"grpc-server"},
+		{"id":"73b19378963753eb","x":-450,"y":-780,"width":250,"height":60,"type":"text","text":"监听端口"}
+	],
+	"edges":[
+		{"id":"3687697a54048613","fromNode":"890e3dfda3a6ab0e","fromSide":"left","toNode":"dd7806d22983727f","toSide":"top","label":"注册"},
+		{"id":"7f551b4ba38bbc1d","fromNode":"890e3dfda3a6ab0e","fromSide":"right","toNode":"73b19378963753eb","toSide":"left","label":"启动"},
+		{"id":"ad4afb6fd606d4ab","fromNode":"9388ad0955508208","fromSide":"left","toNode":"af38e7406daa0aa7","toSide":"top","label":"连接"},
+		{"id":"4e8c6d0dfe20a297","fromNode":"9388ad0955508208","fromSide":"right","toNode":"41c168f9135c9bfa","toSide":"left","label":"创建"}
+	]
+}
