@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Tools/grpc.md"
+                "file": "Note/备忘录.md"
               }
             }
           },
@@ -107,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Tools/grpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Tools/grpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,14 +152,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7c8d07b41d71ce9",
+  "active": "aea0921c9426b1fc",
   "lastOpenFiles": [
+    "Note/Tools/grpc.md",
+    "Note/备忘录.md",
+    "Note/未命名",
     "Note/Go_Package/GIn/gin 中间件的实现原理.md",
     "Note/Android/基本布局.md",
     "Note/Go_Package/GIn",
     "Note/Go_Package/Cobra.md",
     "Note/Go_Package/Lipgloss.md",
-    "Note/Tools/grpc.md",
     "Note/Tools/protobuf.md",
     "Note/Tools/images/grpcprocess.svg",
     "Note/Go_Package/Gorm.md",
@@ -181,7 +181,6 @@
     "Note/Tools",
     "Note/Android/Gradle/get-going-with-gradle-book.pdf.crdownload",
     "Note",
-    "数据容器.pdf",
     "Interview/Redis.md",
     "Interview/Go面向对象.md",
     "Interview/GO包.md",
@@ -195,7 +194,6 @@
     "Projects/Tasks/Lipgloss.md",
     "Projects/Tasks/Cobra.md",
     "Projects/Tasks/Tasks流程图.canvas",
-    "Books/分布式对象存储/第二章 解耦分布式对象存储.md",
     "Images/TCP报文段结构.png",
     "Images/TCP传输过程.png",
     "Images/布局复用举例.png",
